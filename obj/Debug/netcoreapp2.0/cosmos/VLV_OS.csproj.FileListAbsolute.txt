@@ -1,0 +1,9 @@
+C:\Users\Ahona\source\repos\VLV_OS\VLV_OS\obj\Debug\netcoreapp2.0\cosmos\VLV_OS.csprojAssemblyReference.cache
+C:\Users\Ahona\source\repos\VLV_OS\VLV_OS\obj\Debug\netcoreapp2.0\cosmos\VLV_OS.AssemblyInfoInputs.cache
+C:\Users\Ahona\source\repos\VLV_OS\VLV_OS\obj\Debug\netcoreapp2.0\cosmos\VLV_OS.AssemblyInfo.cs
+C:\Users\Ahona\source\repos\VLV_OS\VLV_OS\obj\Debug\netcoreapp2.0\cosmos\VLV_OS.csproj.CoreCompileInputs.cache
+C:\Users\Ahona\source\repos\VLV_OS\VLV_OS\bin\Debug\netcoreapp2.0\cosmos\VLV_OS.deps.json
+C:\Users\Ahona\source\repos\VLV_OS\VLV_OS\bin\Debug\netcoreapp2.0\cosmos\VLV_OS.dll
+C:\Users\Ahona\source\repos\VLV_OS\VLV_OS\bin\Debug\netcoreapp2.0\cosmos\VLV_OS.pdb
+C:\Users\Ahona\source\repos\VLV_OS\VLV_OS\obj\Debug\netcoreapp2.0\cosmos\VLV_OS.dll
+C:\Users\Ahona\source\repos\VLV_OS\VLV_OS\obj\Debug\netcoreapp2.0\cosmos\VLV_OS.pdb
